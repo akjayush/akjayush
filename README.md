@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
 <h3 align="center">A frontend Developer from INDIA</h3>
 
-<img align ="right" alt="Coding" width = "295" src ="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align ="right" alt="Coding" width = "250" src ="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 💬 Ask me about **React, HTML, CSS**
 
@@ -62,7 +62,7 @@
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akjayush&show_icons=true&locale=en&layout=compact" alt="akjayush" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skt521&show_icons=true&locale=en" alt="akjayush" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akjayush&show_icons=true&locale=en" alt="akjayush" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akjayush&" alt="akjayush" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akjayush&" alt="akjayush" /></p>
 
